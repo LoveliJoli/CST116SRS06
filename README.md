@@ -2,17 +2,17 @@
 SSD
 
 
-Class ID:  
+Class ID: Ferrothorn
 
 SRS ID: CST116SRS06  
 
-Unresolved Issues:  
+Unresolved Issues:  I was unable to code how to find the size of the array and incorporate it throughout the rest of my function. 
 
-Notes:  
+Notes:  At this point, I have not heard from my right partner. I sent my data, however, I did not receive a function. Instead, we tested each others function and data together.
 
-Partner Left:  
+Partner Left:  Wendell Abigania (Ekans) 
 
-Partner Right:  
+Partner Right:  Thomas Dallavis 
 
 ---
 
